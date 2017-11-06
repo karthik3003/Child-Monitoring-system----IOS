@@ -153,10 +153,10 @@
             </objects>
             <point key="canvasLocation" x="1072.8" y="-1111.3943028485758"/>
         </scene>
-        <!--View Controller-->
+        <!--Register View Controller-->
         <scene sceneID="qfb-vG-5AA">
             <objects>
-                <viewController id="EIr-6a-wKq" sceneMemberID="viewController">
+                <viewController id="EIr-6a-wKq" customClass="RegisterViewController" customModule="Child_Monitoring_system" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="90x-BB-SrI">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

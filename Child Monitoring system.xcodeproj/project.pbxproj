@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ACAFFD651FAFFE74004CD188 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFFD641FAFFE74004CD188 /* RegisterViewController.swift */; };
 		CCCFFE641F93E28B00C0B70D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCFFE631F93E28B00C0B70D /* AppDelegate.swift */; };
 		CCCFFE661F93E28B00C0B70D /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCFFE651F93E28B00C0B70D /* FirstViewController.swift */; };
 		CCCFFE681F93E28B00C0B70D /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCFFE671F93E28B00C0B70D /* SecondViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ACAFFD641FAFFE74004CD188 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		CCCFFE601F93E28B00C0B70D /* Child Monitoring system.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Child Monitoring system.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCCFFE631F93E28B00C0B70D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CCCFFE651F93E28B00C0B70D /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				CCCFFE651F93E28B00C0B70D /* FirstViewController.swift */,
 				CCCFFE671F93E28B00C0B70D /* SecondViewController.swift */,
 				CCCFFE691F93E28B00C0B70D /* Main.storyboard */,
+				ACAFFD641FAFFE74004CD188 /* RegisterViewController.swift */,
 				CCCFFE771F93FCBE00C0B70D /* ChildTableViewController.swift */,
 				CCCFFE6C1F93E28B00C0B70D /* Assets.xcassets */,
 				CCCFFE6E1F93E28B00C0B70D /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CCCFFE781F93FCBE00C0B70D /* ChildTableViewController.swift in Sources */,
+				ACAFFD651FAFFE74004CD188 /* RegisterViewController.swift in Sources */,
 				CCCFFE681F93E28B00C0B70D /* SecondViewController.swift in Sources */,
 				CCCFFE641F93E28B00C0B70D /* AppDelegate.swift in Sources */,
 				CCCFFE661F93E28B00C0B70D /* FirstViewController.swift in Sources */,
