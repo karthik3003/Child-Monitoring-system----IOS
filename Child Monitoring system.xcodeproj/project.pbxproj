@@ -13,6 +13,7 @@
 		CCCFFE6B1F93E28B00C0B70D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCCFFE691F93E28B00C0B70D /* Main.storyboard */; };
 		CCCFFE6D1F93E28B00C0B70D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCCFFE6C1F93E28B00C0B70D /* Assets.xcassets */; };
 		CCCFFE701F93E28B00C0B70D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCCFFE6E1F93E28B00C0B70D /* LaunchScreen.storyboard */; };
+		CCCFFE781F93FCBE00C0B70D /* ChildTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCFFE771F93FCBE00C0B70D /* ChildTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CCCFFE6C1F93E28B00C0B70D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCCFFE6F1F93E28B00C0B70D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CCCFFE711F93E28B00C0B70D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCCFFE771F93FCBE00C0B70D /* ChildTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChildTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CCCFFE651F93E28B00C0B70D /* FirstViewController.swift */,
 				CCCFFE671F93E28B00C0B70D /* SecondViewController.swift */,
 				CCCFFE691F93E28B00C0B70D /* Main.storyboard */,
+				CCCFFE771F93FCBE00C0B70D /* ChildTableViewController.swift */,
 				CCCFFE6C1F93E28B00C0B70D /* Assets.xcassets */,
 				CCCFFE6E1F93E28B00C0B70D /* LaunchScreen.storyboard */,
 				CCCFFE711F93E28B00C0B70D /* Info.plist */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCCFFE781F93FCBE00C0B70D /* ChildTableViewController.swift in Sources */,
 				CCCFFE681F93E28B00C0B70D /* SecondViewController.swift in Sources */,
 				CCCFFE641F93E28B00C0B70D /* AppDelegate.swift in Sources */,
 				CCCFFE661F93E28B00C0B70D /* FirstViewController.swift in Sources */,
