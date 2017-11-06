@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3FA167CD1FB027F6007F73CD /* PasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA167CC1FB027F6007F73CD /* PasswordViewController.swift */; };
 		ACAFFD651FAFFE74004CD188 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFFD641FAFFE74004CD188 /* RegisterViewController.swift */; };
 		CCCFFE641F93E28B00C0B70D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCFFE631F93E28B00C0B70D /* AppDelegate.swift */; };
 		CCCFFE661F93E28B00C0B70D /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCFFE651F93E28B00C0B70D /* FirstViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3FA167CC1FB027F6007F73CD /* PasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordViewController.swift; sourceTree = "<group>"; };
 		ACAFFD641FAFFE74004CD188 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		CCCFFE601F93E28B00C0B70D /* Child Monitoring system.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Child Monitoring system.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCCFFE631F93E28B00C0B70D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				CCCFFE651F93E28B00C0B70D /* FirstViewController.swift */,
 				CCCFFE671F93E28B00C0B70D /* SecondViewController.swift */,
 				CCCFFE691F93E28B00C0B70D /* Main.storyboard */,
+				3FA167CC1FB027F6007F73CD /* PasswordViewController.swift */,
 				ACAFFD641FAFFE74004CD188 /* RegisterViewController.swift */,
 				CCCFFE771F93FCBE00C0B70D /* ChildTableViewController.swift */,
 				CCCFFE6C1F93E28B00C0B70D /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 				CCCFFE681F93E28B00C0B70D /* SecondViewController.swift in Sources */,
 				CCCFFE641F93E28B00C0B70D /* AppDelegate.swift in Sources */,
 				CCCFFE661F93E28B00C0B70D /* FirstViewController.swift in Sources */,
+				3FA167CD1FB027F6007F73CD /* PasswordViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
